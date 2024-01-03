@@ -1,7 +1,7 @@
 /********************************
 LCD Run
 ********************************/
-//Boytu_13@gmail.com
+//paiyya3@gmail.com
 /********************************/
 // include the library code
 #include <Wire.h> 
