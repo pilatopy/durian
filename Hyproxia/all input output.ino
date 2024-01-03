@@ -4,9 +4,9 @@
 #define MQ_7 A0
 #define buzzer 13
 #define PIN_RELAY_1  2 // the Arduino pin, which connects to the IN1 pin of relay module
-#define PIN_RELAY_2  3 // the Arduino pin, which connects to the IN2 pin of relay module
-#define PIN_RELAY_3  4 // the Arduino pin, which connects to the IN3 pin of relay module
-#define PIN_RELAY_4  5 // the Arduino pin, which connects to the IN4 pin of relay module
+#define PIN_RELAY_2  3 
+#define PIN_RELAY_3  4 
+#define PIN_RELAY_4  5 
 
 float analysis(int);
 //float Rs;
